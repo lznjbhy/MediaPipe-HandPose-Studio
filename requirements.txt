@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+PyQt5
+autopy
+pynput
+pycaw
+comtypes
+cvzone
